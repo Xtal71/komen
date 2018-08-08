@@ -1,5 +1,5 @@
 //<![CDATA[
-var disqus_shortname="Windows Guide";
+var disqus_shortname="windows-phone-guide";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
